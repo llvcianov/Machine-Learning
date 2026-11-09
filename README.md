@@ -4,11 +4,11 @@ Coursework for **Machine Learning (ML)**, Master's Degree in Computer Engineerin
 
 ## Mini-competitions
 
-Three in-class, Kaggle-style mini-competitions. Each folder has my own solution (KNIME workflow or notebook), my submission, and the competition's info/description PDF where available — not the train/test datasets themselves.
+Three in-class, Kaggle-style mini-competitions. These were run as private Kaggle InClass competitions for the course — their Kaggle pages require course enrollment to view, so each one's Overview/Data page is reproduced locally instead. Each folder has that writeup, my own solution (KNIME workflow or notebook), and my submission — not the train/test datasets themselves.
 
-- [`MC1/`](MC1) — [unina-machine-learning-24-25-mc-1](https://www.kaggle.com/competitions/unina-machine-learning-24-25-mc-1)
-- [`MC2/`](MC2) — [unina-machine-learning-24-25-mc-2](https://www.kaggle.com/competitions/unina-machine-learning-24-25-mc-2)
-- [`MC3/`](MC3) — [unina-machine-learning-24-25-mc-3](https://www.kaggle.com/competitions/unina-machine-learning-24-25-mc-3) ([`uninaml.ipynb`](MC3/uninaml.ipynb), an image classification task)
+- [`MC1/`](MC1) — [Land Cover Classification from Satellite Data](MC1/README.md): predicting land cover type from Sentinel-2 multispectral features, via KNN after normalization and correlation-based feature filtering.
+- [`MC2/`](MC2) — [Solar Irradiance Forecasting](MC2/README.md): a regression task predicting PV solar irradiance from meteorological variables.
+- [`MC3/`](MC3) — [Cancer Identification in Breast Cells](MC3/README.md): binary classification (benign/malignant) of fluorescence-microscopy cell images via CNN transfer learning.
 
 The `.knwf` files in `MC1/` and `MC2/` are [KNIME](https://www.knime.com/) workflow exports;
 
