@@ -1,6 +1,6 @@
 # Solar Irradiance Forecasting
 
-Mini-competition 2 (Kaggle InClass — [`unina-machine-learning-24-25-mc-2`](https://www.kaggle.com/competitions/unina-machine-learning-24-25-mc-2), private/course-only). Recreated here from the competition's own Overview and Data pages, since that page requires course enrollment to view.
+Mini-competition 2 (Kaggle InClass — `unina-machine-learning-24-25-mc-2`, private/course-only). Recreated here from the competition's own Overview and Data pages, since that page requires course enrollment to view.
 
 **Start**: May 10, 2025 &nbsp;·&nbsp; **Close**: May 23, 2025
 

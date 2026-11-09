@@ -1,6 +1,6 @@
 # Land Cover Classification from Satellite Data
 
-Mini-competition 1 (Kaggle InClass — [`unina-machine-learning-24-25-mc-1`](https://www.kaggle.com/competitions/unina-machine-learning-24-25-mc-1), private/course-only). Recreated here from the competition's own Overview and Data pages, since that page requires course enrollment to view.
+Mini-competition 1 (Kaggle InClass — `unina-machine-learning-24-25-mc-1`, private/course-only). Recreated here from the competition's own Overview and Data pages, since that page requires course enrollment to view.
 
 **Start**: Apr 24, 2025 &nbsp;·&nbsp; **Close**: May 8, 2025
 
