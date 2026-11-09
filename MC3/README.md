@@ -30,6 +30,10 @@ The training set consists of 239 acquisitions, the test set of 60. Since each ac
 
 Each image is uniquely identified by an ID encoding both the acquisition number and the cell index (e.g. `000_1` = first cell from acquisition 000). All channels for each cell are stored in `.npy` files. The training set contains 6,798 images, the test set 1,721. **The classification task is binary: benign cells are labeled 0, malignant cells are labeled 1.**
 
+A single extracted cell, close up, across its three channels:
+
+<img src="images/single-cell-channels.png" width="560" alt="One extracted cell shown across its three channels">
+
 ## My solution
 
 [`uninaml.ipynb`](uninaml.ipynb) — a PyTorch CNN (transfer learning, binary output head) trained on the three-channel cell images. Submission: [`submission_finale.csv`](submission_finale.csv).
